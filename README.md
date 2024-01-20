@@ -1,0 +1,1 @@
+# Trening1PostgressAndSupabaseTrening1
